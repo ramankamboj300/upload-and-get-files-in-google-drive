@@ -1,6 +1,6 @@
 /******************** GLOBAL VARIABLES ********************/
 var SCOPES = ['https://www.googleapis.com/auth/drive', 'profile'];
-var CLIENT_ID = '1078356317846-uinrq5aducdcoa9g9cq1656ikr87qvk9.apps.googleusercontent.com';
+var CLIENT_ID = 'XXXXXXX';
 var FOLDER_NAME = "";
 var FOLDER_ID = "root";
 var FOLDER_PERMISSION = true;
